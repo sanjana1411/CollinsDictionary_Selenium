@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------------------------------------
+README to Automate Word Search on Collins ENG-HINDI Dictionary Using Selenium WebDriver for Google Chrome
+-------------------------------------------------------------------------------------------------------------
+
+Important Note : Please check the usage policy of 'https://www.collinsdictionary.com/dictionary/english-hindi' before using it.
+
+=================================
+Install the selenium web driver:
+-> pip install selenium
+
+=================================
+
+====================================================================================================
+Download the latest version of Google ChromeDriver from 'http://chromedriver.chromium.org/downloads'
+Extract and paste the driver in the current directory.
+====================================================================================================
+
+
+==============================================================
+Command:
+-> python script_name.py <input_file> <output_file>
+
+Replace script_name.py with the name of the script given above.
+===============================================================
